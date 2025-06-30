@@ -9,7 +9,7 @@ namespace EFCoreBasic
         {
             SaveData();
             FetchData();
-            Console.WriteLine("Hello, World! TestingEFCoreBaasics");
+            Console.WriteLine("Hello, World! TestingEFCoreBaasics, One more modification");
         }
         static void SaveData()
         {
